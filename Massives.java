@@ -40,6 +40,6 @@ public class Massives {
         }
         System.out.println("Сумма равна:" + " " + sum);
     }
-
+//
 
         }
